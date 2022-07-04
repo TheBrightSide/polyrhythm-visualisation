@@ -1,0 +1,1 @@
+c++ main.cpp -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows

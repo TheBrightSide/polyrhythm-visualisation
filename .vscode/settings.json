@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    }
+}
